@@ -1,0 +1,74 @@
+body {
+    /* background:  rgb(206, 8, 130); */
+    background: tomato;
+    /* max-width: 800px; */
+
+}
+
+#container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: rgb(29, 240, 255);
+    /* margin-left: 1000px; */
+    font-size: 43px;
+    font-family: impact;
+    text-shadow: 0.2em 0.3em blue;
+} 
+
+ol {
+    color: rgb(0, 0, 0);
+    /* margin-left: 780px; */
+    font-size: 50px;
+    text-shadow:  7px 11px #8b0a0a;
+    font-family: verdana;
+}
+ 
+p {
+    font-family: franklin gothic medium; 
+    margin-top: 40px;
+    font-size: 25px;
+    color: rgb(72, 83, 134);
+} 
+
+.btn{
+    background-color: steelblue;
+    padding: 0.5em 2em;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 36px;
+    clear: both;
+    margin-bottom: 3em;
+    font-style: unset;
+}
+
+.btn:hover {
+    background-color: darkcyan;
+    padding: 0.5em 2em;
+    color: #333;
+    font-style: oblique;
+}
+
+.messages p:hover {
+    color: rgb(231, 19, 231);
+    padding: 0.4em 0.3em;
+    background-color: pink;
+    border-radius: 10px;
+    display: inline;
+    cursor: pointer;
+}
+
+img.me {
+    clear: both;
+    margin-top: 50px;
+}
+
+img.wacky {
+    width: ;
+}
+
+
+
